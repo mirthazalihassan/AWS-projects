@@ -5,47 +5,8 @@ Cloud Computing is the on-demand availability of computing services especially s
 Amazon Web Services (AWS) offers many services in cloud computing and it is chosen by my clients based on flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions that includes a mixture of infrastructure as a service, platform as a service and software as a service offerings.
 
 In my GitHub repository I will be demonstrating some projects that I have successfully implemented in the production environment and to excel my experience related working with AWS products and services to be future references for me as a Cloud Engineers, I have designed the best current architecture in the market today and documented configuration steps in my private note. I will put my projects with a view to brevity and clarity to show my skills towards that project.
-B B NBJM
-(```)JJUJUJJTYJHHTMNJHJYHJMNJM
-UYJUYJGJ
-RTHRHNTY(```).
-GKYM```json
-{
-    "operation": "read",
-    "tableName": "lambda-apigateway",
-    "payload": {
-        "Key": {
-            "id": "1"
-        }
-    }
-}
-``````json
-{
-    "operation": "create",
-    "tableName": "lambda-apigateway",
-    "payload": {
-        "Item": {
-            "id": "1",
-            "name": "Bob"
-        }
-    }
-}
-```
+
 ```
 ALI
-
-```
-BBJIKJNJNJOM
-
-
-```json
-{
-    "operation": "read",
-    "tableName": "lambda-apigateway",
-    "payload": {
-        "Key": {
-            "id": "1"
-        }
-    }
-}
+JJKJKJ
 ```
