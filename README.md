@@ -38,7 +38,14 @@ ALI
 BBJIKJNJNJOM
 
 
-```
-ALI
-
+```json
+{
+    "operation": "read",
+    "tableName": "lambda-apigateway",
+    "payload": {
+        "Key": {
+            "id": "1"
+        }
+    }
+}
 ```
